@@ -56,6 +56,6 @@ This project analyzes NYC hourly traffic count data and applies machine learning
 
 ## 📁 Files
 
-- `traffic_analysis.ipynb` – Notebook with full analysis and models  
-- `traffic_data.csv` – Cleaned data (or link to source)  
+- `MLFINAL.ipynb` – Notebook with full analysis and models  
+- 'MLFINALS.pptx` – Project Presentation  
 - `README.md` – Project documentation
